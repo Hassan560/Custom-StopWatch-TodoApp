@@ -1,5 +1,5 @@
 import React from "react";
-import "../App.css";
+import '../../App.css'
 
 function StopWatchBut({ run, setInter, setStatus, status, inter,setCount }) {
   const start = () => {

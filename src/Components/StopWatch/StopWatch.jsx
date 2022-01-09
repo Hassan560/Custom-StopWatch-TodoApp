@@ -1,6 +1,6 @@
 import React from "react";
-import "../App.css";
-import UseStopWatch from "../Hooks/UseStopWatch";
+import '../../App.css'
+import UseStopWatch from "../../Hooks/StopWatch/UseStopWatch";
 import StopWatchBut from "./StopWatchBut";
 
 function StopWatch() {
